@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+import sys
+import os
+sys.path.append("/app")
 from datetime import datetime
 import sys
 from pathlib import Path
